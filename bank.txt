@@ -1,0 +1,6 @@
+account_id,holder,balance,currency
+C001,Alice Kim,1200.00,USD
+C002,B. Lee,-50.00,USD
+C003,Carlos Diaz,500.00,KGS
+C004,D. Singh,3000.00,USD
+C005,E. Toktogul,15000.00,KGS

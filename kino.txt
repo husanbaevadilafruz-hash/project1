@@ -1,0 +1,4 @@
+id,movie,time,format,price,seat,booked,customer
+R-1900-A10,The Quantum Heist,2025-09-24 19:00,2D,6.50,A10,False,
+R-1900-A11,The Quantum Heist,2025-09-24 19:00,2D,6.50,A11,True,Alice Kim
+R-2100-B05,Starlight Odyssey,2025-09-24 21:00,3D,8.00,B05,False,
